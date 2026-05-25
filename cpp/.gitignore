@@ -1,4 +1,7 @@
+build/
+.cache/
+.idea/
+.vscode/
 *.exe
-.vscode
-*.idea
-*.cache/
+*.o
+*.out
